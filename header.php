@@ -68,7 +68,7 @@ body {
 
 <!-- Navigation Bar -->
 <div class="navbar">
-  <a href ="index.php">Home</a>
+  <a href ="index.html">Home</a>
   <a href ="add_term.php">Add</a>
   <a href ="delete.php?id=">Delete</a>
   <a href ="edit.php?id=">Edit</a>
